@@ -1,0 +1,17 @@
+{
+  "name": "spryker-feature/spryker-core-back-office",
+  "description": "Spryker Core Back Office [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker/acl": "^3.1.1",
+    "spryker/auth": "^3.0.4",
+    "spryker/auth-mail-connector": "^3.0.0",
+    "spryker/dashboard": "^1.0.0",
+    "spryker/gui": "^3.15.0",
+    "spryker/user": "^3.5.0",
+    "spryker/zed-navigation": "^1.2.2"
+  }
+}
