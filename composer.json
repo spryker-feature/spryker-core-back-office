@@ -12,5 +12,10 @@
     "spryker/gui": "^3.16.1",
     "spryker/user": "^3.5.0",
     "spryker/zed-navigation": "^1.2.2"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
   }
 }
