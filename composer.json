@@ -7,11 +7,13 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker/acl": "^3.1.2",
-    "spryker/auth": "^3.0.4",
-    "spryker/dashboard": "^1.0.0",
-    "spryker/gui": "^3.16.3",
-    "spryker/user": "^3.5.0",
+    "spryker/acl": "^3.2.0",
+    "spryker/auth": "^3.1.0",
+    "spryker/dashboard": "^1.1.0",
+    "spryker/gui": "^3.17.0",
+    "spryker/user": "^3.7.0",
+    "spryker/user-locale": "^1.0.0",
+    "spryker/user-locale-gui": "^1.0.0",
     "spryker/zed-navigation": "^1.2.2"
   },
   "extra": {
