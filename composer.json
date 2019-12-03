@@ -6,7 +6,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": ">=7.1",
+    "php": ">=7.2",
     "spryker/acl": "^3.2.0",
     "spryker/auth": "^3.2.0",
     "spryker/dashboard": "^1.1.0",
