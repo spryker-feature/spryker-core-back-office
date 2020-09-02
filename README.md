@@ -10,8 +10,8 @@ composer require spryker-feature/spryker-core-back-office
 
 ## Optional modules
 - [AclExtension ^1.0.0](https://github.com/spryker/acl-extension) (Extension)
-- [AuthMailConnector ^3.1.0](https://github.com/spryker/auth-mail-connector) (Connector)
+- [AuthMailConnector ^3.2.0](https://github.com/spryker/auth-mail-connector) (Connector)
 - [AuthMailConnectorExtension ^1.0.0](https://github.com/spryker/auth-mail-connector-extension) (Extension)
-- [AuthRestApi ^2.6.0](https://github.com/spryker/auth-rest-api) (Glue)
+- [AuthRestApi ^2.11.0](https://github.com/spryker/auth-rest-api) (Glue)
 - [UserExtension ^1.1.0](https://github.com/spryker/user-extension) (Extension)
-- [ZedNavigationExtension ^1.0.0](https://github.com/spryker/zed-navigation-extension) (Extension)
+- [ZedNavigationExtension ^1.1.0](https://github.com/spryker/zed-navigation-extension) (Extension)
