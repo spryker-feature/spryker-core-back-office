@@ -15,6 +15,7 @@
     "spryker/user-locale": "^1.1.0",
     "spryker/user-locale-gui": "^1.0.0",
     "spryker/user-password-reset": "^0.1.0",
+    "spryker/user-password-reset-mail": "^0.1.0",
     "spryker/zed-navigation": "^1.9.0"
   },
   "extra": {
