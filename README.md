@@ -11,6 +11,8 @@ composer require spryker-feature/spryker-core-back-office
 ## Optional modules
 - [AclExtension ^1.0.0](https://github.com/spryker/acl-extension) (Extension)
 - [AuthRestApi ^2.11.0](https://github.com/spryker/auth-rest-api) (Glue)
+- [SecurityGuiExtension ^1.0.0](https://github.com/spryker/security-gui-extension) (Extension)
+- [SecurityOauthUserExtension ^1.0.0](https://github.com/spryker/security-oauth-user-extension) (Extension)
 - [UserExtension ^1.1.0](https://github.com/spryker/user-extension) (Extension)
 - [UserPasswordResetExtension ^0.1.0](https://github.com/spryker/user-password-reset-extension) (Extension)
 - [ZedNavigationExtension ^1.1.0](https://github.com/spryker/zed-navigation-extension) (Extension)
