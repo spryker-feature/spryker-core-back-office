@@ -11,6 +11,7 @@
     "spryker/dashboard": "^1.1.0",
     "spryker/gui": "^3.34.0",
     "spryker/security-gui": "^0.1.0",
+    "spryker/security-oauth-user": "^1.0.0",
     "spryker/user": "^3.11.0",
     "spryker/user-locale": "^1.1.0",
     "spryker/user-locale-gui": "^1.0.0",
