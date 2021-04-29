@@ -18,7 +18,7 @@
     "spryker/user-password-reset": "^0.2.0",
     "spryker/user-password-reset-mail": "^0.2.0",
     "spryker/zed-navigation": "^1.9.0",
-    "spryker/zed-ui": "^0.3.0"
+    "spryker/zed-ui": "^0.4.0"
   },
   "extra": {
     "branch-alias": {
