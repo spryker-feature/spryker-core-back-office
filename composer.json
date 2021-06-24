@@ -1,28 +1,28 @@
 {
-  "name": "spryker-feature/spryker-core-back-office",
-  "description": "Spryker Core Back Office [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker/acl": "^3.7.0",
-    "spryker/dashboard": "^1.1.0",
-    "spryker/gui": "^3.34.0",
-    "spryker/security-gui": "^0.2.0",
-    "spryker/security-oauth-user": "^1.0.0",
-    "spryker/user": "^3.11.0",
-    "spryker/user-locale": "^1.1.0",
-    "spryker/user-locale-gui": "^1.0.0",
-    "spryker/user-password-reset": "^0.2.0",
-    "spryker/user-password-reset-mail": "^0.2.0",
-    "spryker/zed-navigation": "^1.9.0",
-    "spryker/zed-ui": "^0.4.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/spryker-core-back-office",
+    "description": "Spryker Core Back Office [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker/acl": "^3.7.0",
+        "spryker/dashboard": "^1.1.0",
+        "spryker/gui": "^3.34.0",
+        "spryker/security-gui": "^0.2.0",
+        "spryker/security-oauth-user": "^1.0.0",
+        "spryker/user": "^3.11.0",
+        "spryker/user-locale": "^1.1.0",
+        "spryker/user-locale-gui": "^1.0.0",
+        "spryker/user-password-reset": "^0.2.0",
+        "spryker/user-password-reset-mail": "^0.2.0",
+        "spryker/zed-navigation": "^1.9.0",
+        "spryker/zed-ui": "^0.4.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202107.x-dev"
+        }
     }
-  }
 }
