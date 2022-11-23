@@ -6,22 +6,22 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.4",
-        "spryker/acl": "^3.12.0",
+        "php": ">=8.0",
+        "spryker/acl": "^3.13.0",
         "spryker/dashboard": "^1.1.0",
-        "spryker/gui": "^3.42.0",
+        "spryker/gui": "^3.45.0",
         "spryker/security-gui": "^1.1.0",
         "spryker/security-oauth-user": "^1.1.0",
-        "spryker/user": "^3.13.0",
+        "spryker/user": "^3.14.0",
         "spryker/user-locale": "^1.1.0",
         "spryker/user-locale-gui": "^1.0.0",
-        "spryker/user-password-reset": "^1.0.0",
+        "spryker/user-password-reset": "^1.1.0",
         "spryker/user-password-reset-mail": "^1.0.0",
         "spryker/zed-navigation": "^1.12.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202204.x-dev"
+            "dev-master": "202211.x-dev"
         }
     }
 }
