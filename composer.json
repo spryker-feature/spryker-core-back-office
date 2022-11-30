@@ -12,6 +12,7 @@
         "spryker/gui": "^3.45.0",
         "spryker/security-gui": "^1.1.0",
         "spryker/security-oauth-user": "^1.1.0",
+        "spryker/session-user-validation": "^1.0.0",
         "spryker/user": "^3.14.0",
         "spryker/user-locale": "^1.1.0",
         "spryker/user-locale-gui": "^1.0.0",
@@ -21,7 +22,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202211.x-dev"
+            "dev-master": "202212.x-dev"
         }
     }
 }
