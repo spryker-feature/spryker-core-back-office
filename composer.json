@@ -9,7 +9,7 @@
         "php": ">=8.0",
         "spryker/acl": "^3.13.0",
         "spryker/dashboard": "^1.1.0",
-        "spryker/gui": "^3.45.0",
+        "spryker/gui": "^3.46.0",
         "spryker/security-gui": "^1.1.0",
         "spryker/security-oauth-user": "^1.1.0",
         "spryker/session-user-validation": "^1.0.0",
@@ -17,7 +17,7 @@
         "spryker/user-locale": "^1.1.0",
         "spryker/user-locale-gui": "^1.0.0",
         "spryker/user-password-reset": "^1.1.0",
-        "spryker/user-password-reset-mail": "^1.0.0",
+        "spryker/user-password-reset-mail": "^1.1.0",
         "spryker/zed-navigation": "^1.12.0"
     },
     "extra": {
