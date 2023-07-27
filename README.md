@@ -2,6 +2,8 @@
 
 A Spryker-based shop ships with a comprehensive, intuitive administration area comprised of features that give you a strong hold over the customization of your store. Here you can tailor features to your specific needs, manage orders, products, customers, modify look & feel of your shop and much more.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/back-office/202307.0/spryker-core-back-office-feature-overview.html)
+
 ## Installation
 
 ```
