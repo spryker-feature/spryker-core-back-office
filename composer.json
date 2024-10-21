@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.1",
+        "php": ">=8.2",
         "spryker/acl": "^3.19.0",
         "spryker/dashboard": "^1.1.0",
         "spryker/gui": "^3.53.0",
@@ -24,7 +24,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202407.x-dev"
+            "dev-master": "202410.x-dev"
         }
     }
 }
