@@ -7,24 +7,24 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker/acl": "^3.23.0",
-        "spryker/dashboard": "^1.1.0",
-        "spryker/gui": "^4.0.0",
+        "spryker/acl": "^3.25.0",
+        "spryker/dashboard": "^1.2.0",
+        "spryker/gui": "^4.5.0",
         "spryker/security-blocker-backoffice": "^1.0.0",
         "spryker/security-blocker-backoffice-gui": "^1.1.0",
-        "spryker/security-gui": "^2.0.0",
+        "spryker/security-gui": "^2.1.0",
         "spryker/security-oauth-user": "^1.5.0",
         "spryker/session-user-validation": "^1.4.0",
-        "spryker/user": "^3.27.0",
+        "spryker/user": "^3.30.0",
         "spryker/user-locale": "^1.4.0",
-        "spryker/user-locale-gui": "^1.1.0",
-        "spryker/user-password-reset": "^1.5.0",
+        "spryker/user-locale-gui": "^1.2.0",
+        "spryker/user-password-reset": "^1.6.0",
         "spryker/user-password-reset-mail": "^1.1.0",
         "spryker/zed-navigation": "^1.14.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202510.x-dev"
+            "dev-master": "202512.x-dev"
         }
     }
 }
